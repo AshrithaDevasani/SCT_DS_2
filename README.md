@@ -2,69 +2,65 @@
 Performed data cleaning and exploratory data analysis on the Titanic dataset. Handled missing values, transformed features, and visualized survival trends by gender, class, and age. Generated insights with plots and correlation heatmaps for better understanding of data.
 Exploratory Data Analysis (EDA) on Titanic Dataset
 
- *Task Description* 
+ # Task Description 
 
-This project is part of SkillCraft Technology Internship – Task 02.
+- This project is part of SkillCraft Technology Internship – Task 02.
 The objective is to perform data cleaning and exploratory data analysis (EDA) on a dataset of choice. The Titanic dataset from Kaggle is used here. The goal is to explore relationships between variables, identify meaningful patterns, and analyze survival trends.
 
- *Dataset* 
+ # Dataset
 
-Source: Titanic Dataset from Kaggle
+- Source: Titanic Dataset from Kaggle
 
-Description: Contains details about Titanic passengers including class, gender, age, ticket fare, cabin, embarkation port, and survival status
-
-
-
- *Process Followed* 
-
-Data Cleaning
-
-Treated missing values in Age, Cabin, and Embarked columns
-
-Removed duplicates and irrelevant fields
-
-Converted categorical data into appropriate formats
+- Description: Contains details about Titanic passengers including class, gender, age, ticket fare, cabin, embarkation port, and survival status
 
 
-Exploratory Data Analysis
 
-Studied the distribution of numerical and categorical variables
+# Process Followed 
 
-Analyzed survival patterns based on passenger class, gender, and age
+- Data Cleaning
 
-Visualized correlations between important features
+- Treated missing values in Age, Cabin, and Embarked columns
 
-Identified significant factors that influenced survival
+- Removed duplicates and irrelevant fields
 
- *Key Insights* 
+- Converted categorical data into appropriate formats
 
-Female passengers had higher survival rates than males
 
-First-class passengers had better chances of survival than those in second and third class
+# Exploratory Data Analysis
 
-Younger passengers, especially children, had higher survival rates compared to older passengers
+- Studied the distribution of numerical and categorical variables
 
-The port of embarkation showed variation in survival rates
+- Analyzed survival patterns based on passenger class, gender, and age
 
- *Tools and Libraries* 
+- Visualized correlations between important features
 
-Python
+- Identified significant factors that influenced survival
 
-Pandas
+# Key Insights
 
-NumPy
+- Female passengers had higher survival rates than males
 
-Matplotlib
+- First-class passengers had better chances of survival than those in second and third class
 
-Seaborn
+- Younger passengers, especially children, had higher survival rates compared to older passengers
 
- *Conclusion* 
+- The port of embarkation showed variation in survival rates
 
-The analysis highlights how exploratory data analysis can uncover important trends and relationships in data.
+# Tools and Libraries
+
+- Python
+
+- Pandas
+
+- NumPy
+
+- Matplotlib
+
+- Seaborn
+
+# Conclusion
+
+- The analysis highlights how exploratory data analysis can uncover important trends and relationships in data.
 In the Titanic dataset, gender, class, and age were the most significant factors that influenced survival chances.
 
- *References* 
-
-Titanic Dataset – Kaggle
-
-SkillCraft Technology Internship Program
+ 
